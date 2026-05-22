@@ -1,5 +1,8 @@
 Privacy Policy for Tend
+
 Last updated: May 22, 2026
+
+
 Overview
 Tend ("the app") is a household management app. We take your privacy seriously and collect only what is necessary to provide the service.
 Data We Collect
